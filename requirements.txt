@@ -7,3 +7,4 @@ nbstripout
 scikit-learn
 xgboost
 optuna
+shap
