@@ -5,3 +5,5 @@ seaborn
 ipykernel
 nbstripout
 scikit-learn
+xgboost
+optuna
